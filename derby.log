@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jul 25 21:46:42 EET 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016c-2a74-f188-000000c82538 
+on database directory E:\Calismalar\Java\Kodlar\JavaDeitel\JavaApplication_Chapter28_4\AddressBook with class loader sun.misc.Launcher$AppClassLoader@140e19d 
+Loaded from file:/E:/Calismalar/Java/Kodlar/JavaDeitel/JavaApplication_Chapter28_4/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_161-b12
+user.dir=E:\Calismalar\Java\Kodlar\JavaDeitel\JavaApplication_Chapter28_4
+os.name=Windows 10
+os.arch=x86
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
